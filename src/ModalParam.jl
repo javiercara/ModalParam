@@ -1,5 +1,7 @@
 module ModalParam
 
-greet() = print("Hello World!")
+include("modal.jl")
+
+export mac, modalparam, modalparami
 
 end # module
