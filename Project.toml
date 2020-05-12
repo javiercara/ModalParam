@@ -1,0 +1,7 @@
+name = "ModalParam"
+uuid = "c656bf35-42df-4cd0-8340-957fd1b52ed8"
+authors = ["javiercara <javier.cara@upm.es>"]
+version = "0.1.0"
+
+[deps]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
