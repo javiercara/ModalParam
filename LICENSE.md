@@ -1,4 +1,4 @@
-The emACQR.jl package is licensed under the MIT "Expat" License:
+The ModalParam.jl package is licensed under the MIT "Expat" License:
 
 > Copyright (c) 2020: Javier Cara.
 > 
