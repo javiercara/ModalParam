@@ -1,6 +1,6 @@
 # ModalParam.jl
 
-[![Travis](https://travis-ci.org/javiercara/ModalParam.jl.svg?branch=master)](https://travis-ci.org/javiercara/ModalParam.jl.svg?branch=master)
+[![Travis](https://img.shields.io/travis/org/javiercara/ModalParam.jl?label=Linux%20%26%20osx&logo=travis&style=flat-square)](https://travis-ci.org/javiercara/ModalParam.jl.svg?branch=master)
 
 `ModalParam.jl` is a Julia package to compute the modal parameters from a state space model. There are two posibilities:
 
