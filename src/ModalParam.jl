@@ -2,6 +2,6 @@ module ModalParam
 
 include("modal.jl")
 
-export mac, modalparam, modalparami
+export mac#, modalparam, modalparami
 
 end # module
