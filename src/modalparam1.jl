@@ -1,4 +1,4 @@
-function modalparam(A,C,dt)
+function modalparam1(A,C,dt)
 	#
 	# Compute modal parameters from A, C and dt
 	#

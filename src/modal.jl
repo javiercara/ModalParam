@@ -3,5 +3,5 @@ using LinearAlgebra
 
 include("simula01.jl")
 include("mac.jl")
-#include("modalparam.jl")
+include("modalparam1.jl")
 include("modalparami.jl")
